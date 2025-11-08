@@ -12,6 +12,12 @@ title: 'Automation: Шаблоны'
 {{ property | zigbee/kitchenThermometer | temperature }}
 ```
 
+Полчение имени устройства:
+
+```
+{{ property | zigbee/12:0e:32:44:ac:ef:41:e8 | deviceName }}
+```
+
 MQTT-сообщение целиком:
 
 ```
