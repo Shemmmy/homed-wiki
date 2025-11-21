@@ -46,7 +46,7 @@ _HOMEd_ это набор маленьких и быстрых сервисов 
 - [Сборник пользовательских рецептов](https://community.homed.dev)
 - [Страница разработчика на GitHub](https://github.com/u236)
 - [Канал проекта в Telegram](https://t.me/homed_info)
-- [Первая версия этой Wiki](https://mediawiki.homed.dev) - _не обновяется с осени 2025 года_
+- [Первая версия этой Wiki](https://mediawiki.homed.dev) - _не обновляется с осени 2025 года_
 
 <!-- - [HOMEd Gateway Nano](/hardware/nano/) -->
 <!-- - [HOMEd Gateway Pico](/hardware/pico/) -->
