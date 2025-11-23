@@ -26,7 +26,7 @@ _HOMEd Web_ предоставляет возможность настройки
 [![Dashboard](/assets/img/screenshot/dashboard-light.png#only-light)](/assets/img/screenshot/dashboard-light.png)
 [![Dashboard](/assets/img/screenshot/dashboard-dark.png#only-dark)](/assets/img/screenshot/dashboard-dark.png)
 
-Элементы дашбордов могут быть объеденены в блоки и отсортированы в любом порядке.
+Элементы дашбордов могут быть объединены в блоки и отсортированы в любом порядке.
 
 ## Что дальше?
 
