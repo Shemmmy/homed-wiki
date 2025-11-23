@@ -1,12 +1,12 @@
 ---
-title: 'Modbus: Поддержка устройтв'
+title: 'Modbus: Поддержка устройств'
 ---
 
-# Modbus: Поддержка устройтв
+# Modbus: Поддержка устройств
 
 ## Карта регистров
 
-Для декларативного описания [карты регистров](/modbus/database/items/) любых неподдерживаемых устройств необходимсо использовать специальный тип устройства `customController`.
+Для декларативного описания [карты регистров](/modbus/database/items/) любых неподдерживаемых устройств необходимо использовать специальный тип устройства `customController`.
 
 ## Фабричные устройства
 
@@ -22,10 +22,10 @@ title: 'Modbus: Поддержка устройтв'
 | `wbMap12e`         | __Wiren Board WB-MAP12E__      | счетчик электроэнергии |
 | `wbMap12h`         | __Wiren Board WB-MAP12H__      | счетчик электроэнергии |
 | `wbMrwm2`          | __Wiren Board WB-MRWM2__       | модуль реле |
-| `wbMrm2`           | __Wiren Board WB-MRM2-mini__   | молуль реле |
-| `wbMr3`            | __Wiren Board WB-MR3LV/MRWL3__ | молуль реле |
-| `wbMr6`            | __Wiren Board WB-MR6C/MR6-LV__ | молуль реле |
-| `wbMr6p`           | __Wiren Board WB-MR6CU/MRPS6__ | молуль реле |
+| `wbMrm2`           | __Wiren Board WB-MRM2-mini__   | модуль реле |
+| `wbMr3`            | __Wiren Board WB-MR3LV/MRWL3__ | модуль реле |
+| `wbMr6`            | __Wiren Board WB-MR6C/MR6-LV__ | модуль реле |
+| `wbMr6p`           | __Wiren Board WB-MR6CU/MRPS6__ | модуль реле |
 | `wbLed0`           | __Wiren Board WB-LED__         | диммер (режим _W1, W2, W3, W4_) |
 | `wbLed1`           | __Wiren Board WB-LED__         | диммер (режим _W1+W2, W3, W4_) |
 | `wbLed2`           | __Wiren Board WB-LED__         | диммер (режим _CCT1, W3, W4_) |
@@ -38,20 +38,20 @@ title: 'Modbus: Поддержка устройтв'
 | `wbLed256`         | __Wiren Board WB-LED__         | диммер (режим _RGB, W4_) |
 | `wbLed512`         | __Wiren Board WB-LED__         | диммер (режим _W1+W2+W3+W4_) |
 | `wbMdm`            | __Wiren Board WB-MDM3__        | силовой диммер |
-| `wbUps`            | __Wiren Board WB-UPS v3__      | источник бесперебойгого питания |
+| `wbUps`            | __Wiren Board WB-UPS v3__      | источник бесперебойного питания |
 | `n4dsa02`          | __Eletechsup N4DSA02__         | датчик температуры |
 | `r4pin08m0`        | __Eletechsup R4PIN08__         | контроллер ввода/вывода (режим _8DI_) |
 | `r4pin08m1`        | __Eletechsup R4PIN08__         | контроллер ввода/вывода (режим _8DO_) |
 | `r4pin08m2`        | __Eletechsup R4PIN08__         | контроллер ввода/вывода (режим _4DI-4DO_) |
 | `r4pin08m3`        | __Eletechsup R4PIN08__         | контроллер ввода/вывода (режим _2DI-6DO_) |
 | `r4pin08m4`        | __Eletechsup R4PIN08__         | контроллер ввода/вывода (режим _6DI-2DO_) |
-| `kc868a4`          | __Kincony KC868-A4__           | молуль реле |
-| `kc868a6`          | __Kincony KC868-A6__           | молуль реле |
-| `kc868a8`          | __Kincony KC868-A8__           | молуль реле |
-| `kc868a16`         | __Kincony KC868-A16__          | молуль реле |
-| `kc868a32`         | __Kincony KC868-A32__          | молуль реле |
-| `kc868a64`         | __Kincony KC868-A64__          | молуль реле |
-| `kc868a128`        | __Kincony KC868-A128__         | молуль реле |
+| `kc868a4`          | __Kincony KC868-A4__           | модуль реле |
+| `kc868a6`          | __Kincony KC868-A6__           | модуль реле |
+| `kc868a8`          | __Kincony KC868-A8__           | модуль реле |
+| `kc868a16`         | __Kincony KC868-A16__          | модуль реле |
+| `kc868a32`         | __Kincony KC868-A32__          | модуль реле |
+| `kc868a64`         | __Kincony KC868-A64__          | модуль реле |
+| `kc868a128`        | __Kincony KC868-A128__         | модуль реле |
 | `neptunSmartPlus`  | __Neptun Smart+__              | контроллер защиты от протечек |
 | `jth2d1`           | __JTH-2D1__                    | датчик температуры и влажности |
 | `t13`              | __T13-750W-12-H__              | частотный преобразователь |

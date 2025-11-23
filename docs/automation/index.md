@@ -11,7 +11,7 @@ _HOMEd Automation_ это сервис для автоматизаций, кот
 [![HOMEd Automation](/assets/img/diagram/automation-light.png#only-light)](/assets/img/diagram/automation-light.png)
 [![HOMEd Automation](/assets/img/diagram/automation-dark.png#only-dark)](/assets/img/diagram/automation-dark.png)
 
-Подробнее о режимах работы атоматизаций можно почитать [здесь](/automation/database/#mode).
+Подробнее о режимах работы автоматизаций можно почитать [здесь](/automation/database/#mode).
 
 ## Что дальше?
 
