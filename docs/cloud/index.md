@@ -6,7 +6,7 @@ title: 'Cloud: Описание'
 
 ![HOMEd Cloud](/assets/img/service/cloud.png){width=150px}
 
-_HOMEd Cloud_ это сервис, который позволяет "пробрасывать" устройства в [Умный дом Яндекса](https://alice.yandex.ru/smart-home) и управлять или с помощью Алисы или из приложения.
+_HOMEd Cloud_ это сервис, который позволяет "пробрасывать" устройства в [Умный дом Яндекса](https://alice.yandex.ru/smart-home) и управлять ими с помощью Алисы или из приложения.
 
 Данные передаются через промежуточный [сервер](https://github.com/u236/homed-server-cloud).
 
